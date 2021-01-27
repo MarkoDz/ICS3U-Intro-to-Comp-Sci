@@ -4,7 +4,7 @@ public class DayOneHwQ4 {
     public static void main(String[] args) {
         System.out.println("/////////////////////////////////////////////////////////////////////");
         System.out.println("/								    /");
-        System.out.println("/		               Our Lady of Mercy Hospita            /");
+        System.out.println("/		               Our Lady of Mercy Hospital           /");
         System.out.println("/		          -------------------------------------	    /");
         System.out.println("/								    /");
         System.out.println("/			               1306 Central City	    /");
